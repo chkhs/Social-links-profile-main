@@ -32,7 +32,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://chkhs.github.io/Social-links-profile-main/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
